@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list>
+    <student>
+        <name>Duong Ha</name>
+        <age>1999</age>
+        <school>UET</school>
+    </student>
+    <student>
+        <name>Huong</name>
+        <age>1998</age>
+        <school>ULIS</school>
+    </student>
+</list>
